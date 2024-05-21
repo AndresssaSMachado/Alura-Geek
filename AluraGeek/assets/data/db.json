@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "product": "Barbie em Noite de Gala",
+        "price": "60,00",
+        "image": "https://e7.pngegg.com/pngimages/56/510/png-clipart-barbie-look-doll-toy-gown-doll.png"
+      },
+      {
+        "id": 2,
+        "product": "Barbie Noite com as Amigas",
+        "price": "60,00",
+        "image": "https://e7.pngegg.com/pngimages/120/40/png-clipart-amazon-com-barbie-doll-toy-glitter-barbie-fashion-doll.png"
+      },
+      {
+        "id": 3,
+        "product": "Barbie Tarde no Clube",
+        "price": "30,00",
+        "image": "https://a-static.mlcdn.com.br/800x560/boneca-barbie-fashionista-181-loira-colecao-2022-mattel/intercomgp/15923927015/a49e3ef3d247ad1d723717632affbe73.jpeg"
+      },
+      {
+        "id": 4,
+        "product": "Barbie Passeio no Shopping",
+        "price": "40,00",
+        "image": "https://e7.pngegg.com/pngimages/546/654/png-clipart-barbie-doll-barbie-mariposa-and-the-fairy-princess-doll-barbie-doll-girl-shoe-thumbnail.png"
+      },
+      {
+        "id": 5,
+        "product": "Barbie Encontro Romântico",
+        "price": "50,00",
+        "image": "https://e1.pngegg.com/pngimages/940/194/png-clipart-barbie-doll-thumbnail.png"
+      }
+    ]
+  }
